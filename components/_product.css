@@ -1,0 +1,30 @@
+.product{
+    padding: 130px 0;
+}
+
+.product-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product-top-link{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.product-top-link span{
+    text-decoration: underline;
+}
+
+.product-bottom{
+    margin-top: 60px;
+}
+
+.card{
+    width: 600px;
+    height: 812px;
+    border: 1px solid #685a5230;
+}
+
